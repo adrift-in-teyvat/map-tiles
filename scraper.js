@@ -9,7 +9,7 @@ const CONFIG = {
 const overlaysBaseUrl = "https://game-cdn.appsample.com/gim/overlays";
 const maps = {
   teyvat: {
-    baseUrl: "https://game-cdn.appsample.com/gim/map-teyvat/v58-rc2",
+    baseUrl: "https://game-cdn.appsample.com/gim/map-teyvat/v60-l1-rc2",
     outputFolder: path.join(process.cwd(), "teyvat"),
     ranges: {
       10: {
