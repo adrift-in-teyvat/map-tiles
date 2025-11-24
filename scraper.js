@@ -506,6 +506,54 @@ const maps = {
             "a09ff414ba288f05661493656342ca8b_5015554468896342976",
         },
       },
+
+      nodkrai: {
+        lempo_isle: {
+          tundra_gap_vertical:
+            "835d87161ff5f3ec44b858d192c9d23b_2608618757246161263",
+          tundra_gap_horizontal:
+            "b0e529fddce5cc80fe1f58adc58aa0e7_4050038234206151834",
+          hidden_laboratory:
+            "416457f12600b91ff44d09e7e7539e3f_396325659656563135",
+          windworn_path: "e7ae8fca876ccf134820d7d118f7fe22_2593443220333350338",
+          abandoned_workshop:
+            "7277108575a4ca100b779faab3036e4e_131147537784834955",
+          beneath_the_forsaken_sea:
+            "399e31f71a636afb74dacad0c6518c3f_753925958642171918",
+          pellucid_cavern:
+            "d6609658f4a6e1992e628e91474720b2_1493871574180100282",
+        },
+        hiisi_island: {
+          crab_tsars_palace_upper:
+            "0c5efb4e9b5a700d506b5713f76ece3c_3730812890439295476",
+          crab_tsars_palace_lower:
+            "f6cc1b8d6d626f2a267bd344105870ef_3467164914266289938",
+          sanctum_of_oathbearer:
+            "2d19a47b4dce37609389b1e3aea781c3_312835451227469551",
+          interstice_of_the_nearing_moon:
+            "7941f475b4daa18c7aa9a7cf6b5558ba_4069350577237685691",
+          silvermoon_hall:
+            "18a72ba9cd4c31dc8d272b404d57c6a3_5663980494112912883",
+          thunderclap_reef_tunnel:
+            "a1002f3139b6465408fb5350a5b578bd_3373713377661170493",
+        },
+        paha_isle: {
+          kuuvahki_experimental_design_bureau_b1:
+            "79431714bc558f0d63a2c01d04f658c4_1523316569230970867",
+          kuuvahki_experimental_design_bureau_b2:
+            "1ff7ba32c1d3c1c621a953a035bf2ce4_3873604668219054453",
+          kuuvahki_experimental_design_bureau_b3:
+            "5c2efc76b635dd5027033bd3cf322cb1_5249452148693045240",
+          kuuvahki_experimental_design_bureau_b4:
+            "3a36d4b3e7dda59a4eac66bd8d5bf1d2_7040453101324400050",
+          kuuvahki_experimental_design_bureau_b5:
+            "a00fd8f1ed216c7da03479976c01a788_7360770991846405699",
+          underground_research_center:
+            "6c0a8210957d201e82c1d0a93b8ae815_4912056898495022332",
+          salt_eaten_cave:
+            "cf120b92b8f1707b61bc4e8ba7eef0ba_4233389229105507871",
+        },
+      },
     },
   },
 };
